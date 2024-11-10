@@ -1,0 +1,20 @@
+# 환경 변수 파일
+.env
+
+# Node 모듈
+node_modules/
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 빌드 파일
+dist/
+build/
+
+# OS 또는 편집기에서 생성하는 파일
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
